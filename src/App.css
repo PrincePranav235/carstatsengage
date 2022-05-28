@@ -27,12 +27,105 @@
 .App-link {
   color: #61dafb;
 }
+.hojabhai{
+  position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.hojabhai iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
 
-@keyframes App-logo-spin {
+.carousel-item active,carousel-item {
+  width: 1350px;
+  height:360px;
+  background-color: #282c34;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.dashb{
+     margin: auto;
+
+}
+
+.nav-link :hover{
+  color:rgb(111, 10, 205);
+}
+.videoWrapper {
+
+  position: relative;
+
+  padding-bottom: 56.25%; /* 16:9 */
+
+  padding-top: 25px;
+
+  height: 0;
+
+}
+
+.videoWrapper iframe {
+
+  position: absolute;
+
+  top: 0;
+
+  left: 0;
+
+  width: 100%;
+
+  height: 100%;
+
+}
+.content1
+
+{
+
+  position:absolute;
+
+}
+
+.box1 div{
+
+  width: fit-content;
+
+  display: inline;
+
+  position: relative;
+
+}
+/* @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
   to {
     transform: rotate(360deg);
   }
+} */
+
+.dropdown-menu{
+  width: fit-content;
+}
+/* .card{
+  width: 100%;
+} */
+.card{
+  padding:10px;
+  margin:auto;
+  text-align: center;
+  color: whitesmoke;
+  background-color: rgb(255, 68, 0);
+  
+  
+}
+#card{
+  background-color: #737070;
+  color:whitesmoke
 }
