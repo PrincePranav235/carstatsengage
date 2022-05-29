@@ -15,11 +15,11 @@ function Footer() {
         <div className='content mx-2'>carStats</div>
         <br/>
         <h4>Microsoft</h4>
-        <ui className="list-unstyled">
+        <ul className="list-unstyled">
               <li>ENGAGE</li>
               <li>PROJECT</li>
               <li>DATA ANALYSIS</li>
-            </ui>
+            </ul>
 
        </div>
             
@@ -35,7 +35,7 @@ function Footer() {
             </ui> */}
           </div>
           {/* Column3 */}
-          <div class="col-md-5 mb-md-0 mb-3">
+          <div className="col-md-5 mb-md-0 mb-3">
 
       <h4>Contacts</h4>
 

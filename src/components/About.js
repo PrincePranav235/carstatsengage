@@ -31,7 +31,7 @@ export default function About() {
 </div>
 
 <div  className='mx-5'>
-<div data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-root-margin="0px 0px -40%" data-bs-smooth-scroll="true" className= "scrollspy-example" tabindex="0">
+<div data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-root-margin="0px 0px -40%" data-bs-smooth-scroll="true" className= "scrollspy-example" tabIndex="0">
   <h4 id="scrollspyHeading1"><strong>ABS(Anti Braking System)</strong></h4>
   <p><img src="abdc.png" style={{width:'90%'}} alt="" /></p>
   <h4 id="scrollspyHeading2"><strong>Torque</strong></h4>
