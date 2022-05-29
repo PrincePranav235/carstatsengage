@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/carstatsengage/static/css/main.bc174039.css",
-    "main.js": "/carstatsengage/static/js/main.f2164364.js",
+    "main.js": "/carstatsengage/static/js/main.392df17a.js",
     "static/js/787.545aecf5.chunk.js": "/carstatsengage/static/js/787.545aecf5.chunk.js",
     "index.html": "/carstatsengage/index.html",
     "main.bc174039.css.map": "/carstatsengage/static/css/main.bc174039.css.map",
-    "main.f2164364.js.map": "/carstatsengage/static/js/main.f2164364.js.map",
+    "main.392df17a.js.map": "/carstatsengage/static/js/main.392df17a.js.map",
     "787.545aecf5.chunk.js.map": "/carstatsengage/static/js/787.545aecf5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc174039.css",
-    "static/js/main.f2164364.js"
+    "static/js/main.392df17a.js"
   ]
 }
